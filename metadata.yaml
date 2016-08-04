@@ -1,0 +1,30 @@
+_repo: The-Sequel-of-Appomattox--A-Chronicle-of-the-Reunion-of-the-States_2897
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Fleming, Walter L. (Walter Lynwood)
+    alias: Fleming, Walter Lynwood
+    birthdate: 1874
+    deathdate: 1932
+    gutenberg_agent_id: '1066'
+    url: http://www.gutenberg.org/2009/agents/1066
+description: Chronicles of America series; v. 32
+gutenberg_bookshelf:
+- United States
+- US Civil War
+- Children's History
+gutenberg_issued: '2001-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2897'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Reconstruction (U.S. history, 1865-1877)'
+- !lcc 'E151'
+- !lcsh 'United States -- History -- 1865-1898'
+- GITenberg
+title: 'The Sequel of Appomattox: A Chronicle of the Reunion of the States'
+url: http://www.gutenberg.org/ebooks/2897
